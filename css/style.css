@@ -5,7 +5,6 @@ body {
     height: 100%; 
     padding: 0;
     margin: 0;
-    color:blacks;
     top: 60px;
     font-family: 'Lato', sans-serif;
     font-size: 18px;
@@ -21,7 +20,7 @@ body {
     padding-bottom: 0;
     padding-top: 0;
     background-color:transparent; /* Used if the image is unavailable */
-    height: 500px; /* You must set a specified height */
+    height: 500px;
    
    
     
